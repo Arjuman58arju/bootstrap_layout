@@ -1,0 +1,18 @@
+
+.header{
+    height: 100px;
+}
+.aside{
+    height: 600px;
+}
+.article{
+    height: 600px;
+}
+.img{
+    height: 200px;
+    background-color: rgba(65, 219, 65, 0.46);
+}
+
+.footer{
+    height: 100px;
+}
